@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>collage homepage</title>
+	<link rel="stylesheet" type="text/css" href="school.css"></link>
+	<link rel="stylesheet" type="text/css" href="navigation_bar.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.css"></link>
+	<link rel="stylesheet" type="text/css" href="lightbox.min.css">
+	<script type="text/javascript" src="lightbox-plus-jquery.min.js">
+	</script>
+
+</head>
+<style>
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+</style>
+<body class="bimg">
+     <div class="menu" style="width: auto;">
+	<div>
+	<h1 class="lmenu" style="font-size: 20px;">VEDWANTI SHIKSHAN SANSTHAN</h1>
+	</div>
+	<div class="rmenu">
+	<ul>
+		<a href="school.html" class="c"><li><i class="fas fa-home">&nbsp HOME</i></li></a>
+		<a href="addmision.html" class="c"><li><i class="fas fa-book-reader">&nbsp ADMISSION</i></li></a>
+		<a href="gallery.html" class="c"><li><i class="fas fa-image">&nbsp GALLERY</i></li></a>
+		<a href="aboutus.html" class="c"><li><i class="fas fa-id-card">&nbsp ABOUT US</i></li></a>
+		<a href="faculty.html" class="c"><li><i class="fas fa-phone">&nbsp FACULTY</i></li></a>
+	    <a href="contactus.html" class="c"><li><i class="fas fa-phone">&nbsp CONTACT US</i></li></a>
+	</ul>
+		</div>
+</div>
+
+<div class="gallery">
+	<a href="img/anu.jpg" data-lightbox="mygallery"><img src="img/anu1_s.jpg"></a>
+	<a href="img/b1.jpg" data-lightbox="mygallery"><img src="img/s1.jpg"></a>
+	<a href="img/b2.jpg" data-lightbox="mygallery"><img src="img/s2.jpg"></a>
+	<a href="img/b3.jpg" data-lightbox="mygallery"><img src="img/s3.jpg"></a>
+	<a href="img/b4.jpg" data-lightbox="mygallery"><img src="img/s4.jpg"></a>
+	<a href="img/b5.jpg" data-lightbox="mygallery" data-title="Chairman"><img src="img/s5.jpg"></a>
+	<a href="img/b6.jpg" data-lightbox="mygallery" data-title="Guardian"><img src="img/s6.jpg"></a>
+	<a href="img/b7.jpg" data-lightbox="mygallery" data-title="Director"><img src="img/s7.jpg"></a>
+	<a href="img/b8.jpg" data-lightbox="mygallery" data-title="Voice Chairman"><img src="img/s8.jpg"></a>
+	<a href="img/b9.jpg" data-lightbox="mygallery"><img src="img/s9.jpg"></a>
+	<a href="img/b10.jpg" data-lightbox="mygallery"><img src="img/s10.jpg"></a>
+	<a href="img/b11.jpg" data-lightbox="mygallery"><img src="img/s11.jpg"></a>
+	<a href="img/b12.jpg" data-lightbox="mygallery"><img src="img/s12.jpg"></a>
+	<a href="img/b13.jpg" data-lightbox="mygallery"><img src="img/s13.jpg"></a>
+	<a href="img/b14.jpg" data-lightbox="mygallery"><img src="img/s14.jpg"></a>
+	<a href="img/b15.jpg" data-lightbox="mygallery"><img src="img/s15.jpg"></a>
+	<a href="img/b16.jpg" data-lightbox="mygallery"><img src="img/s16.jpg"></a>
+	<a href="img/b17.jpg" data-lightbox="mygallery"><img src="img/s17.jpg"></a>
+	<a href="img/b18.jpg" data-lightbox="mygallery"><img src="img/s18.jpg"></a>
+	<a href="img/b19.jpg" data-lightbox="mygallery"><img src="img/s19.jpg"></a>
+	<a href="img/b20.jpg" data-lightbox="mygallery"><img src="img/s20.jpg"></a>
+	<a href="img/b21.jpg" data-lightbox="mygallery"><img src="img/s21.jpg"></a>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+<div class="container-fluid row" style="background-color: black;color: white; height: 300px; width: auto;">
+		<div class="col-md-4">
+			<p>
+			<h5 style="margin-left:50px;">QUICK LINK</h5>
+		<a href="school.html" style="margin-left:62px;">HOME</a><br>
+		<a href="addmision.html" style="margin-left:62px;">ADDMISSION</a><br>
+		
+		<a href="gallery.html" style="margin-left:62px;">GALLARY</a><br>
+		<a href="aboutus.html" style="margin-left:62px;">ABOUT US</a><br>
+		<a href="faculty.html" style="margin-left:62px;">FACULTY</a><br>
+	    <a href="contactus.html" style="margin-left:62px;">CONTACT US</a><br>
+		</p>
+		</div>
+		
+		<div class="col-md-4">
+			<h5>School Adress</h5>
+			Dalit Basti Ward No- 1<br>
+			Robertsganj, Sonebhadra,231216
+			U.P 
+		</div>
+
+		<div class="col-md-4">
+             <h5> Contact No </h5>
+             +91 7376901090<br><br>
+             +91 9452634396<br><br>
+             <h5>Email Id</h5>
+             Vedant.s.s@gmail.com
+		</div>
+
+</body>
+</html>
