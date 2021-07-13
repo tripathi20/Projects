@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>School Homepage</title>
+	<link rel="stylesheet" type="text/css" href="school.css"></link>
+	<link rel="stylesheet" type="text/css" href="navigation_bar.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.css"></link>
+</head>
+<style>
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+</style>
+
+
+<body class="bimg">
+     <div class="menu" style="width: auto;">
+	<div>
+	<h1 class="lmenu" style="font-size: 20px;">VEDWANTI SHIKSHAN SANSTHAN</h1>
+	</div>
+	<div class="rmenu">
+	<ul>
+		<a href="school.html" class="c"><li><i class="fas fa-home">&nbsp HOME</i></li></a>
+		<a href="addmision.html" class="c"><li><i class="fas fa-book-reader">&nbsp ADMISSION</i></li></a>
+		<a href="gallery.html" class="c"><li><i class="fas fa-image">&nbsp GALLERY</i></li></a>
+		<a href="aboutus.html" class="c"><li><i class="fas fa-id-card">&nbsp ABOUT US</i></li></a>
+		<a href="faculty.html" class="c"><li><i class="fas fa-phone">&nbsp FACULTY</i></li></a>
+	    <a href="contactus.html" class="c"><li><i class="fas fa-phone">&nbsp CONTACT US</i></li></a>
+
+	</ul>
+		</div>
+</div>
+<br>
+<div class="slb">
+<div class="slider">
+	<figure>
+		<div class="slide">
+			<img src="slider/sl1.jpg" alt="">
+		</div>
+		<div class="slide">
+			<img src="slider/sl2.jpg" alt="">
+		</div>
+		<div class="slide">
+			<img src="slider/sl3.jpg" alt="">
+		</div>
+		<div class="slide">
+			<img src="slider/sl4.jpg" alt="">
+		</div>
+		<div class="slide">
+			<img src="slider/sl5.jpg" alt="">
+		</div>
+	</figure>
+	
+</div>
+</div>
+<br>
+<div class="course">
+	<h1>COURSE AVAILABLE</h1>
+	<button id="btn2" style="width: auto;">PLAY GROUP</button>&nbsp &nbsp &nbsp
+	<button id="btn3">LKG</button>&nbsp &nbsp &nbsp
+	<button id="btn4">UKG</button>&nbsp &nbsp &nbsp
+	<button id="btn5">1-5</button>&nbsp &nbsp &nbsp
+	<button id="btn6">6-8</button>
+</div>
+<br><br><br><br><br><br><br><br>
+<div class="recr">
+	<h1>SOME &nbsp DETAILS &nbsp OF &nbsp OUR &nbsp SCHOOL</h1>
+	<br>
+	<button id="btn7">25 <br>TEACHER'S</button>&nbsp &nbsp &nbsp
+	<button id="btn8">400 <br>STUDENT'S</button>&nbsp &nbsp &nbsp
+	<button id="btn9">85% <br>AVG PERCENT</button>&nbsp &nbsp &nbsp
+	<button id="btn10">1000<br>SCHOLERSHIP</button>
+</div>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<div class="po">
+</div>
+
+<footer>
+	<div class="container-fluid row" style="background-color: black;color: white; height: 300px; width: auto;">
+		<div class="col-md-4">
+			<p>
+			<h5 style="margin-left:50px;">QUICK LINK</h5>
+		<a href="school.html" style="margin-left:62px;">HOME</a><br>
+		<a href="addmision.html" style="margin-left:62px;">ADDMISSION</a><br>
+		
+		<a href="gallery.html" style="margin-left:62px;">GALLARY</a><br>
+		<a href="aboutus.html" style="margin-left:62px;">ABOUT US</a><br>
+		<a href="faculty.html" style="margin-left:62px;">FACULTY</a><br>
+	    <a href="contactus.html" style="margin-left:62px;">CONTACT US</a><br>
+		</p>
+		</div>
+		
+		<div class="col-md-4">
+			<h5>School Adress</h5>
+			Dalit Basti Ward No- 1<br>
+			Robertsganj, Sonebhadra,231216
+			U.P 
+		</div>
+
+		<div class="col-md-4">
+             <h5> Contact No </h5>
+             +91 7376901090<br><br>
+             +91 9452634396<br><br>
+             <h5>Email Id</h5>
+             Vedant.s.s@gmail.com
+		</div>
+	</div>
+</footer>
+</body>
+</html>
