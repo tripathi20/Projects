@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>contact us</title>
+	<link rel="stylesheet" type="text/css" href="contactus.css">
+	<link rel="stylesheet" type="text/css" href="navigation_bar.css"></link>
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.css"></link>
+</head>
+<body class="back">
+	 <div class="menu" style="width: auto;">
+	<div>
+	<h1 class="lmenu" style="font-size: 20px;">VEDWANTI SHIKSHAN SANSTHAN</h1>
+	</div>
+	<div class="rmenu">
+	<ul>
+		<a href="school.html" class="c"><li><i class="fas fa-home">&nbsp HOME</i></li></a>
+		<a href="addmision.html" class="c"><li><i class="fas fa-book-reader">&nbsp ADMISSION</i></li></a>
+		<a href="gallery.html" class="c"><li><i class="fas fa-image">&nbsp GALLERY</i></li></a>
+		<a href="aboutus.html" class="c"><li><i class="fas fa-id-card">&nbsp ABOUT US</i></li></a>
+		<a href="faculty.html" class="c"><li><i class="fas fa-hotel">&nbsp FACULTY</i></li></a>
+		<a href="contactus.html" class="c"><li><i class="fas fa-phone">&nbsp CONTACT US</i></li></a>
+	</ul>
+		</div>
+</div>
+	<div class="contact-form">
+		<h1>Contact Us</h1>
+		<div class="txtb">
+			<label>Full Name</label>
+		<input type="text" name="name" placeholder="Name">
+	</div>
+	<div class="txtb">
+		<label>Email</label>
+		<input type="email" name="Email" placeholder="enter your email">
+	</div>
+	<div class="txtb">
+		<label>Phone No</label>
+		<input type="text" name="number" placeholder="enter phone number">
+	</div>
+	<div class="txtb">
+		<label>message</label>
+		<textarea></textarea>
+	</div>
+	<div>
+		<a class="btn">Send</a>
+	</div>
+	</div>
+
+
+
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="container-fluid row" style="background-color: black;color: white; height: 300px; width: auto;">
+		<div class="col-md-4">
+			<p>
+			<h5 style="margin-left:50px;">QUICK LINK</h5>
+		<a href="school.html" style="margin-left:62px;">HOME</a><br>
+		<a href="addmision.html" style="margin-left:62px;">ADDMISSION</a><br>
+		
+		<a href="gallery.html" style="margin-left:62px;">GALLARY</a><br>
+		<a href="aboutus.html" style="margin-left:62px;">ABOUT US</a><br>
+		<a href="faculty.html" style="margin-left:62px;">FACULTY</a><br>
+	    <a href="contactus.html" style="margin-left:62px;">CONTACT US</a><br>
+		</p>
+		</div>
+		
+		<div class="col-md-4">
+			<h5>School Adress</h5>
+			Dalit Basti Ward No- 1<br>
+			Robertsganj, Sonebhadra,231216
+			U.P 
+		</div>
+
+		<div class="col-md-4">
+             <h5> Contact No </h5>
+             +91 7376901090<br><br>
+             +91 9452634396<br><br>
+             <h5>Email Id</h5>
+             Vedant.s.s@gmail.com
+		</div>
+
+
+	
+
+</body>
+</html>
