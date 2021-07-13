@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>addmision</title>
+	<link rel="stylesheet" type="text/css" href="contactus.css">
+	<link rel="stylesheet" type="text/css" href="navigation_bar.css"></link>
+</head>
+<body class="back">
+	
+ <div class="menu" style="width: auto;">
+	<div>
+	<h1 class="lmenu" style="font-size: 20px;">VEDWANTI SHIKSHAN SANSTHAN</h1>
+	</div>
+	<div class="rmenu">
+	<ul>
+		<a href="school.html" class="c"><li><i class="fas fa-home">&nbsp HOME</i></li></a>
+		<a href="addmision.html" class="c"><li><i class="fas fa-book-reader">&nbsp ADMISSION</i></li></a>
+		<a href="gallery.html" class="c"><li><i class="fas fa-image">&nbsp GALLERY</i></li></a>
+		<a href="aboutus.html" class="c"><li><i class="fas fa-id-card">&nbsp ABOUT US</i></li></a>
+		<a href="faculty.html" class="c"><li><i class="fas fa-hotel">&nbsp FACULTY</i></li></a>
+		<a href="contactus.html" class="c"><li><i class="fas fa-phone">&nbsp CONTACT US</i></li></a>
+	</ul>
+		</div>
+</div>
+
+	<h2 style="color: white;text-align: center;"> ADDMISSION</h2>
+	<p style="color: white;">
+		At the VEDWANTI SHIKSHAN SANSTHAN we skive to make our Admission Process as simple and transparent as possible to ensure that all prospective parents enjoy a stress free application experience.
+
+The complete admissions process is available for viewing here.
+
+Admissions open for the academic year 2020-2021, Pre Nur - Grade 8 to be upgraded till Grade 12 with CBSE Affiliation.
+
+Fee Structure - Kindly contact the school Reception for details. Monday to Saturday.
+Time:- 8:30-1:30
+	</p>
+<div style="width: 800px; align-content: center; margin-left: 200px;">
+	<h2 style="color: white;"> ADDMISSION PROCESS </h2>
+	<p style="color: white;">
+		Admission-Procedure-Policy
+'Children demonstrate a keen desire to learn, who are curious about the world they live in and wish to explore a variety of experiences in order to develop their innate talents'.</p>
+<p style="color: white;">
+All applicants will have the opportunity to tell us about their interests and achievements. Because education is a three-way partnership, we also look forward to having an interaction with their parents</p>
+
+<h3 style="color: white;">School Visit</h3>
+<p style="color: white;">
+You are most welcome to visit the school and have an informal discussion with or without your child. This can be done by fixing a prior appointment with the Admission Counsellor through mail at the school number. A meeting can also be arranged with the Principal or any other faculty member that you may wish to see.</p>
+
+<h3 style="color: white;">Submission of Application Form</h3>
+ <p style="color: white;">Parents must submit a fully completed application form and submit the following supporting documents:<br>
+ a. Birth Certificate<br>
+ b. Immunization History<br>
+ c. Residence Proof and ID Proof<br>
+ d. Report Card & Transfer Certificate (Not applicable for Nursery applicants)<br>
+ e. 13 Passport size photograph (8 for child, 4 for parent individually)<br>
+ f. Transfer Certificate<br>
+</p>
+<h3 style="color: white;">P&C Interactions </h3>
+<p style="color: white;">
+The interview is as pleasant and non intimidating as we can make it. It is normally conducted by Head of Admissions, Co-coordinator. We are interested in knowing about the child's/ student's educational development, use of language, social skills, academic enthusiasms and extra-curricular interests. The aim of the interview is to find about what the student knows, understands and enjoys.
+</p>
+<h3 style="color: white;">Payment of Fees</h3>
+<p style="color: white;">
+Once the above steps are satisfactorily completed parents will receive an admission offer and may pay the applicable fees to confirm admission.</p>
+<p style="color: white;">
+The admissions are given as per guidelines framed by Directorate of Education and endorsed by Managing Committee of the school. Admissions in higher classes are open depending upon the availability of seats’.</p>
+
+<h3 style="color: white;">Prospectus & Application Form</h3><p>
+Parents are requested to pay Rs.300/- for a 'VEDWANTI SHIKSHAN SANSTHAN registration kit, which includes our application form. The kits are available for sale at the school campus as well as online.
+	</p>
+	<h2 style="color: white;">AGE CRITERIA</h2>
+	<p style="color: white;">
+		Pre-Nursery: Minimum Age should be 2+ as on 31.03.2020<br>
+Nursery: Minimum Age should be 3+ as on 31.03.2020<br>
+KG: Minimum Age should be 4+ as on 31.03.2020<br>
+Grade 1: Minimum Age should be 5+ as on 31.03.2020<br>
+The School is currently inviting applications for admission to Pre-Nursery  till Grade VIII for the Academic Session 2020-2021.<br>
+	</p>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+<div class="container-fluid row" style="background-color: black;color: white; height: 300px; width: auto;">
+		<div class="col-md-4">
+			<p>
+			<h5 style="margin-left:50px;">QUICK LINK</h5>
+		<a href="school.html" style="margin-left:62px;">HOME</a><br>
+		<a href="addmision.html" style="margin-left:62px;">ADDMISSION</a><br>
+		
+		<a href="gallery.html" style="margin-left:62px;">GALLARY</a><br>
+		<a href="aboutus.html" style="margin-left:62px;">ABOUT US</a><br>
+		<a href="faculty.html" style="margin-left:62px;">FACULTY</a><br>
+	    <a href="contactus.html" style="margin-left:62px;">CONTACT US</a><br>
+		</p>
+		</div>
+		
+		<div class="col-md-4">
+			<h5>School Adress</h5>
+			Dalit Basti Ward No- 1<br>
+			Robertsganj, Sonebhadra,231216
+			U.P 
+		</div>
+
+		<div class="col-md-4">
+             <h5> Contact No </h5>
+             +91 7376901090<br><br>
+             +91 9452634396<br><br>
+             <h5>Email Id</h5>
+             Vedant.s.s@gmail.com
+		</div>
+
+</body>
+</html>
