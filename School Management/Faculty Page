@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>collage homepage</title>
+	<link rel="stylesheet" type="text/css" href="school.css"></link>
+	<link rel="stylesheet" type="text/css" href="navigation_bar.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.css"></link>
+</head>
+<style>
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+</style>
+<body class="bimg">
+     <div class="menu" style="width: auto;">
+	<div>
+	<h1 class="lmenu" style="font-size: 20px;">VEDWANTI SHIKSHAN SANSTHAN</h1>
+	</div>
+	<div class="rmenu">
+	<ul>
+		<a href="school.html" class="c"><li><i class="fas fa-home">&nbsp HOME</i></li></a>
+		<a href="addmision.html" class="c"><li><i class="fas fa-book-reader">&nbsp ADMISSION</i></li></a>
+		<a href="gallery.html" class="c"><li><i class="fas fa-image">&nbsp GALLERY</i></li></a>
+		<a href="aboutus.html" class="c"><li><i class="fas fa-id-card">&nbsp ABOUT US</i></li></a>
+		<a href="faculty.html" class="c"><li><i class="fas fa-phone">&nbsp FACULTY</i></li></a>
+	    <a href="contactus.html" class="c"><li><i class="fas fa-phone">&nbsp CONTACT US</i></li></a>
+
+	</ul>
+		</div>
+</div>
+<table class="table">
+	<thead class="thead-dark">
+		<th scope="col">Sr.No.</th>
+	<th scope="col">name</th>
+	<th scope="col">qualificaion</th>
+	<th scope="col">post</th>
+</thead>
+<tbody class="thead-light">
+	<tr>
+		<th scope="row">1.</th>
+		<th>DR. KRISHNANAD TRIPATHI</th>
+		<th>PHD</th>
+		<th>GAURDIAN</th>
+
+	</tr>
+	<tr>
+		<th scope="row">2.</th>
+		<th>MR. PARAHS NATH AGRAHARI</th>
+		<th>POST GRADUATION</th>
+		<th>ADHYAKSH</th>
+
+	</tr>
+	<tr>
+		<th scope="row">3.</th>
+		<th>MR. MRITUNJAYTRIPATHI</th>
+		<th>M.A,B.Ed.,L.L.B</th>
+		<th>CHAIRMAN</th>
+
+	</tr>
+	<tr>
+		<th scope="row">4.</th>
+		<th>MRS. SANDHAYA TRIPATHI</th>
+		<th>POST GRADUATION</th>
+		<th>VOICE CHAIRMAN</th>
+
+	</tr>
+	<tr>
+		<th scope="row">5.</th>
+		<th>MR. ANURAG TRIPATHI</th>
+		<th>B.Tech</th>
+		<th>DIRECTOR</th>
+
+	</tr>
+	<tr>
+		<th scope="row">6.</th>
+		<th>MRS. RANJANA TRIPATHI</th>
+		<th>M.A</th>
+		<th>TREASURER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">7.</th>
+		<th>MRS. MEENA TRIPATHI</th>
+		<th>M.A</th>
+		<th>PRINCIPAL</th>
+
+	</tr>
+	<tr>
+		<th scope="row">8.</th>
+		<th>MR. PRAVEEN PANDEY</th>
+		<th>M.A,B.Ed</th>
+		<th>VOICE PRINCIPAL</th>
+
+	</tr>
+	<tr>
+		<th scope="row">9.</th>
+		<th>MR. PIYUSH MISHRA</th>
+		<th>L.L.B</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">10.</th>
+		<th>MR. BRIJESH SHUKLA</th>
+		<th>L.L.B</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">11.</th>
+		<th>MR. PINTU AGRAHRI</th>
+		<th>GRADUATION</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">12.</th>
+		<th>MR. PINTU GUPTA</th>
+		<th>P.GRADUATION</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">13.</th>
+		<th>MR. SHUBHAM TRIPATHI</th>
+		<th>MCA</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">14.</th>
+		<th>MR. SHIVAM TRIPATHI</th>
+		<th>DIPLOMA,B.Tech</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">15.</th>
+		<th>MRS. RICH TRIPATHI</th>
+		<th>DIPLOMA,B.Tech</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">17.</th>
+		<th>MR. RADHE SHYAM PRAAJAPATI</th>
+		<th>GRADUATION</th>
+		<th>MEMBER</th>
+
+	</tr>
+	<tr>
+		<th scope="row">18.</th>
+		<th>MR. DEENA NATH PANDEY</th>
+		<th>M.A</th>
+		<th>SENIOR FACULTY </th>
+
+	</tr>
+	<tr>
+		<th scope="row">19.</th>
+		<th>MR. SHIV KUMAR</th>
+		<th>BTC</th>
+		<th>SENIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row">20.</th>
+		<th>MRS. MADURI DWIVEDI</th>
+		<th>GRADUATION</th>
+		<th>JUNIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row">21.</th>
+		<th>MRS. ARCHANA SRIVASTVA</th>
+		<th>GRADUATION</th>
+		<th>JUNIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row">22.</th>
+		<th>MRS. NEELAM SHING</th>
+		<th>GRADUATION</th>
+		<th>JUNIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row">23.</th>
+		<th>MR.PRAVEEN PANDEY</th>
+		<th>B.Ed</th>
+		<th>SENIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row">24.</th>
+		<th>MRS. CHANCHALA VISWAKARMA</th>
+		<th>GRADUATION</th>
+		<th>JUNIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row">25.</th>
+		<th>MR. MITTHU PRASHAD</th>
+		<th>B.Ed</th>
+		<th>SENIOR FACULTY</th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+	<tr>
+		<th scope="row"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+
+	</tr>
+</tbody>
+</table>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<div class="container-fluid row" style="background-color: black;color: white; height: 300px; width: auto;">
+		<div class="col-md-4">
+			<p>
+			<h5 style="margin-left:50px;">QUICK LINK</h5>
+		<a href="school.html" style="margin-left:62px;">HOME</a><br>
+		<a href="addmision.html" style="margin-left:62px;">ADDMISSION</a><br>
+		
+		<a href="gallery.html" style="margin-left:62px;">GALLARY</a><br>
+		<a href="aboutus.html" style="margin-left:62px;">ABOUT US</a><br>
+		<a href="faculty.html" style="margin-left:62px;">FACULTY</a><br>
+	    <a href="contactus.html" style="margin-left:62px;">CONTACT US</a><br>
+		</p>
+		</div>
+		
+		<div class="col-md-4">
+			<h5>School Adress</h5>
+			Dalit Basti Ward No- 1<br>
+			Robertsganj, Sonebhadra,231216
+			U.P 
+		</div>
+
+		<div class="col-md-4">
+             <h5> Contact No </h5>
+             +91 7376901090<br><br>
+             +91 9452634396<br><br>
+             <h5>Email Id</h5>
+             Vedant.s.s@gmail.com
+		</div>
+</body>
+</html>
