@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+	<link rel="stylesheet" type="text/css" href="school.css"></link>
+	<link rel="stylesheet" type="text/css" href="navigation_bar.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.css"></link>
+</head>
+<style>
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+</style>
+<body class="bimg">
+     <div class="menu" style="width: auto;">
+	<div>
+	<h1 class="lmenu" style="font-size: 20px;">VEDWANTI SHIKSHAN SANSTHAN</h1>
+	</div>
+	<div class="rmenu">
+	<ul>
+		<a href="school.html" class="c"><li><i class="fas fa-home">&nbsp HOME</i></li></a>
+		<a href="addmision.html" class="c"><li><i class="fas fa-book-reader">&nbsp ADMISSION</i></li></a>
+		<a href="gallery.html" class="c"><li><i class="fas fa-image">&nbsp GALLERY</i></li></a>
+		<a href="aboutus.html" class="c"><li><i class="fas fa-id-card">&nbsp ABOUT US</i></li></a>
+		<a href="faculty.html" class="c"><li><i class="fas fa-phone">&nbsp FACULTY</i></li></a>
+	    <a href="contactus.html" class="c"><li><i class="fas fa-phone">&nbsp CONTACT US</i></li></a>
+
+	</ul>
+		</div>
+</div>
+ <br><br><br>
+ <font color="white">
+ 	<p>
+ 	<h6>Located at “Dalit basti ward no.1 Robertsganj, Sonebhadra“ “Vedwanti Shikshan Sanshthan” is a high school that was established with a donation from our late founder, Dr. Krishna Nand Tripathi. Since opening in 2004, our school adheres to the Vedwanti Shikshan Sansthan motto of “Serving the Community in the Spirit of Benevolence” and provides a quality, holistic education. We hope that one day, our students will be able to make a valuable contribution to both our society and our country. Our school aims to provide all students with a multi-faceted, school-based curriculum, that will enable students to develop independent thinking skill, the ability to distinguish between right and wrong, a positive attibute towards life and a thirst for knowledge. We aim to make our students life-long learners, and their years at school are the beginning of this journey. Therefore, it is also essential to equip our students with excellent language skills; a broad, global perspective and a high moral standard, so that they can better serve the citizen of Sonebhadra, our local community and their country in the future.  </h6> </p><br><br>
+
+<p>
+<h3>Vision</h3></p><p>
+<h6>Adhering to the principle of “Serving the community in the Spirit of Benevolence”, we pledge to provide our students with quality holistic education and to develop our students into the pillars of our country.</h6></p><br><br>
+
+
+
+<p><h3>Mission</h3></p>
+<p><h6>
+We provide a diversified school-based curriculum to help our students to:<br>
+Develop independent thinking and positive attitude;<br>
+1.	Achieve proficiency in English;<br>
+2.	acquire new information technology and a global perspective;<br>
+3.	develop a sense of integrity, justice, patriotism and a commitment to serve the community<br>
+</h6></p><br><br>
+
+
+
+
+<p><h3>2019-2022 Areas of Concern</h3></p>
+<p><h6>
+1.	Based on the people-oriented concept, nurture a caring school culture and allow everyone to discharge their duties to the fullest.<br>
+2.	Enhancing students’ ability to achieve self-directed learning and unleashing individual potential in order to raise their overall learning effectiveness.<br>
+ </h6></p><br><br>
+
+<br><br><br><br><br><br><br><br>
+
+
+<div class="container-fluid row" style="background-color: black;color: white; height: 300px; width: auto;">
+		<div class="col-md-4">
+			<p>
+			<h5 style="margin-left:50px;">QUICK LINK</h5>
+		<a href="school.html" style="margin-left:62px;">HOME</a><br>
+		<a href="addmision.html" style="margin-left:62px;">ADDMISSION</a><br>
+		
+		<a href="gallery.html" style="margin-left:62px;">GALLARY</a><br>
+		<a href="aboutus.html" style="margin-left:62px;">ABOUT US</a><br>
+		<a href="faculty.html" style="margin-left:62px;">FACULTY</a><br>
+	    <a href="contactus.html" style="margin-left:62px;">CONTACT US</a><br>
+		</p>
+		</div>
+		
+		<div class="col-md-4">
+			<h5>School Adress</h5>
+			Dalit Basti Ward No- 1<br>
+			Robertsganj, Sonebhadra,231216
+			U.P 
+		</div>
+
+		<div class="col-md-4">
+             <h5> Contact No </h5>
+             +91 7376901090<br><br>
+             +91 9452634396<br><br>
+             <h5>Email Id</h5>
+             Vedant.s.s@gmail.com
+		</div>
+
+
+
+
+</body>
+</html>
